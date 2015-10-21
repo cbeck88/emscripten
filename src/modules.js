@@ -129,6 +129,7 @@ var LibraryManager = {
       'library_glfw.js',
       'library_uuid.js',
       'library_glew.js',
+      'library_epoxy.js',
       'library_html5.js',
       'library_signals.js',
       'library_idbstore.js',
